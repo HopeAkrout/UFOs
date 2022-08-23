@@ -12,7 +12,7 @@ The filtering feature allows for a much more precise list that any visitor to th
 
 ![filter](https://user-images.githubusercontent.com/107294123/186084817-c6e1c9d9-c79e-4558-b9ec-70a49a244c48.png)
 
-Just type in the various filters (any or all) that one would like to narrow the data down by and click enter.  You'll see the table will filter down to only list the data fitting those parameters.  If they want to reset the table, just click "UFO Sightings" at the top of the page.
+Just type in the various filters (any or all) that one would like to narrow the data down by and click enter on your keyboard.  You'll see the table will filter down to only list the data fitting those parameters.  If you want to reset the table, just click "UFO Sightings" at the top of the page.
 
 With very little editing, the .js and .html files can be used for various datasets that may be received upon further research if the client wishes to display multiple tables or update the data.js to add to the existing table.
 
