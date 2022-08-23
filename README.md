@@ -10,7 +10,7 @@ Using JavaScript, the app.js file pulls the data from the original data.js list 
 
 The filtering feature allows for a much more precise list that any visitor to the site may want.  For example, instead of just looking by date, one could look by city like the picture listed below:
 
-/picture/
+![filter](https://user-images.githubusercontent.com/107294123/186084817-c6e1c9d9-c79e-4558-b9ec-70a49a244c48.png)
 
 Just type in the various filters (any or all) that one would like to narrow the data down by and click enter.  You'll see the table will filter down to only list the data fitting those parameters.  If they want to reset the table, just click "UFO Sightings" at the top of the page.
 
